@@ -2,6 +2,8 @@
 
 I'm a Commerce student at the University of Toronto (Rotman Commerce), specializing in management with a focus on finance and data science in business. I build finance and data tools: valuation models, risk analytics and market research systems. Every project below has tests, a methodology write-up and a clear statement of its limits. Data in the repos is synthetic or illustrative unless stated.
 
+**Try them live:** [DCF Studio](https://adhamkarim4815.github.io/dcf-studio/) · [Options Lens](https://adhamkarim4815.github.io/options-lens/) · [Retirement Monte Carlo](https://adhamkarim4815.github.io/retirement-monte-carlo/)
+
 **Tools I work in:** Python (numpy, scipy, pandas), Excel (live-formula models), JavaScript and TypeScript, Swift, SQL.
 
 ## Corporate finance and valuation
